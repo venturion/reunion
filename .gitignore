@@ -1,0 +1,20 @@
+# Files #
+###############
+*.zip
+*.mp3
+*.wav
+*.swf
+*.fla
+*.psd
+*.pdf
+*.7z
+
+# Folders #
+################
+tmp/*
+img/*
+temp/*
+assets/bower_components/*
+assets/node_modules/*
+
+!.gitignore
