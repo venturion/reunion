@@ -1,0 +1,869 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"templa",
+				"templateFolder"
+			],
+			[
+				"back",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"editorco",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"package inta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/reunion"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/checkout/success.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/payment/amazon_checkout.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/checkout/success.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/payment/amazon_checkout.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/checkout/coupon.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/checkout/coupon.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/api/coupon.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/api/coupon.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/checkout/checkout.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/checkout/cart.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/checkout/checkout.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/product/product.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/common/cart.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/payment/pp_express.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/payment/pp_express.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/checkout/shipping.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/marketing/affiliate.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/sale/customer.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/sale/order.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/setting/setting.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/setting/store.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/address.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/register.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/affiliate/edit.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/affiliate/register.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/checkout/shipping.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/address.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/register.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/affiliate/edit.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/affiliate/register.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/shipping/auspost.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/shipping/fedex.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/edit.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/api/cart.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/api/customer.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/api/payment.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/api/shipping.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/edit.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/api/cart.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/api/customer.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/api/payment.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/api/shipping.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/catalog/product.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/localisation/tax_rate.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/marketing/contact.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/module/pp_login.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazon_settings.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazonus_settings.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/ebay_settings.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/report/customer_credit.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/report/customer_order.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/report/customer_reward.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/sale/custom_field.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/sale/return.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/user/user.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/return.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/return.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/password.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/affiliate/password.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/password.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/affiliate/password.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/common/forgotten.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/forgotten.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/login.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/affiliate/forgotten.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/information/contact.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/forgotten.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/login.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/affiliate/forgotten.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/wishlist.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/wishlist.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/module/account.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/module/affiliate.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/common/login.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/affiliate/login.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/module/account.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/module/affiliate.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/affiliate/login.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/affiliate/payment.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/affiliate/payment.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/checkout/cart.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/checkout/failure.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/order.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/product/compare.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/mail/order.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/order.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/product/product.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/product/compare.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/pp_standard.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/pp_express.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/klarna_invoice.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/klarna_account.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/amazon_checkout.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/openbay/amazonus.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/openbay/amazon.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/feed/google_base.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/common/cart.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/checkout/confirm.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/checkout/cart.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/api/order.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/api/cart.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/account/wishlist.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/account/return.php",
+		"/C/xampp/htdocs/showtek.com.br/catalog/controller/account/order.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/model/sale/return.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/model/openbay/etsy_product.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/model/openbay/ebay.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/model/catalog/product.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/report/product_viewed.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/report/product_purchased.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/openbay_itemlist.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazonus_listingsaved.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazonus_listing.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazonus_links.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazonus_bulk_listing.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazon_listingsaved.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazon_listing.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazon_links.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazon_bulk_listing.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/controller/sale/return.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/controller/sale/order.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/controller/report/product_viewed.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/controller/report/product_purchased.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/controller/payment/amazon_checkout.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/controller/openbay/amazonus_product.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/controller/openbay/amazonus.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/controller/openbay/amazon_product.php",
+		"/C/xampp/htdocs/showtek.com.br/admin/controller/openbay/amazon.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"*.php",
+			"*.phtml",
+			"*.js",
+			"*.*",
+			"*.phtml",
+			"*.css",
+			"*.xml",
+			"*.css",
+			"*.php",
+			"*.css",
+			".css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'Your order has been placed!'",
+			"'Warning: Please enter a coupon code!'",
+			"'Warning: Coupon is either invalid, expired or reached its usage limit!'",
+			"'Success: Your coupon discount has been applied!'",
+			"'Enter your coupon here'",
+			"characters",
+			"Warning",
+			"'%s every %d %s(s) until canceled'",
+			"'%s every %d %s(s) for %d payment(s)'",
+			"'%s every %d %s(s) for %d payment(s) then'",
+			"'Payment Profile'",
+			"'Recurring item'",
+			"'Region / State'",
+			"'Post Code'",
+			"'Address 2'",
+			"'Address 1'",
+			"'%s required!'",
+			"'Customer Group'",
+			"'Company'",
+			"'Choose Address'",
+			"'Telephone'",
+			"'Last Name'",
+			"'First Name'",
+			"'Password Confirm'",
+			"'E-Mail Address'",
+			"'Unit Price'",
+			"'Quantity'",
+			"'Product Name'",
+			"'Forgotten Password'",
+			"'Your Password'",
+			"'Your Address'",
+			"'Use Coupon Code'",
+			"'Model'",
+			"'Product Name'",
+			"Shopping Cart",
+			"Weight:",
+			"Estimated Time",
+			"Insured upto",
+			"Ex Tax:",
+			"Brand",
+			"Upload required",
+			"Invalid file type",
+			"Your file was successfully uploaded",
+			"The page you requested cannot be found",
+			"showdevendas",
+			"platf",
+			"this",
+			"getHaner",
+			"run",
+			"array",
+			"framework",
+			"echo ",
+			"prependPath",
+			"echo",
+			"findTemplate",
+			"unable to",
+			"unabl to",
+			"addPath",
+			"setPaths",
+			"loadtempla",
+			"load",
+			"loadtem",
+			"template",
+			"all",
+			"less",
+			"class ",
+			"class",
+			"lang",
+			"en",
+			"br",
+			"shopxxx",
+			"grupoTo",
+			"forma-",
+			"grupoTodo",
+			"exit",
+			"die",
+			"exit",
+			"criarOption",
+			"getProductByAttributes",
+			"configu",
+			"regular-price",
+			"config",
+			"regular-price",
+			"subtotal",
+			".subtotal",
+			"my_tooltip",
+			"tooltip",
+			"hover",
+			"criarOption",
+			"html",
+			"append",
+			"coluna_",
+			"criarOption",
+			"$option",
+			"option",
+			"Insdisponível",
+			"Produto ",
+			"ind",
+			"indis",
+			"avise-me",
+			"avise",
+			"quantidadedis",
+			"Avise",
+			"avise",
+			"criarOption",
+			"data-com",
+			"nonex",
+			"coluna_",
+			"$numTamanhos",
+			"data-column",
+			"data-tam",
+			"subtotal",
+			"item_coluna",
+			"tr_sub",
+			"nonex",
+			"quantidadeporTamanho",
+			"coluna_",
+			"coluna_G",
+			"subTotalCol",
+			"coluna_",
+			"coluna",
+			"coluna_",
+			"coluna_G",
+			"tr_to",
+			"prototype/tooltip.js",
+			"getAttributesValues",
+			"preco",
+			"Mage::getModel('cataloginventory/stock_item'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'Seu pedido foi colocado!'",
+			"'Aviso: Por favor insira um código de cupom!'",
+			"'Atenção: Coupon é inválido, expirou ou atingiu o seu limite de uso!'",
+			"'Sucesso: Seu cupom de desconto foi aplicado!'",
+			"'Entre com o código do cupom'",
+			"caracteres",
+			"Aviso",
+			"'%s todo %d %s(s) até ser cancelado'",
+			"'%s todo %d %s(s) para %d pagamento(s)'",
+			"'%s todo %d %s(s) para %d pagamento(s) então'",
+			"'Perfil de Pagamento'",
+			"'Item recorrente'",
+			"'Região / Estado'",
+			"'CEP'",
+			"'Endereço 2'",
+			"'Endereço 1'",
+			"'%s obrigatório!'",
+			"'Grupo de clientes'",
+			"'Companhia'",
+			"'Escolha um Endereço'",
+			"'Telefone'",
+			"'Sobrenome'",
+			"'Nome'",
+			"'Confirmação de senha'",
+			"'Endereço de E-mail'",
+			"'Preço unitário'",
+			"'Quantidade'",
+			"'Nome do Produto'",
+			"'Esqueci a senha'",
+			"'sua Senha'",
+			"'Seu Endereço'",
+			"'Usar Cupom'",
+			"'Modelo'",
+			"'Nome do Produto'",
+			"Carrinho de Compras",
+			"Peso:",
+			"Tempo Estimado",
+			"Segurado até",
+			"Ex Imposto:",
+			"Marca",
+			"Envio obrigatório",
+			"Tipo de arquivo inválido",
+			"Seu arquivo foi enviado com sucesso\nSeu arquivo foi enviado com sucesso",
+			"A página solicitada não foi encontrada",
+			"showtek",
+			"#relacionados"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.composer":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "reunion.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config",
+				"admin\\config.php"
+			],
+			[
+				"bowe",
+				"assets\\bower.json"
+			],
+			[
+				"bower",
+				"assets\\bower.json"
+			],
+			[
+				"google-map",
+				"assets\\bower_components\\google-map\\google-map.html"
+			],
+			[
+				"polymer",
+				"assets\\bower_components\\polymer\\polymer.html"
+			],
+			[
+				"editor",
+				".editorconfig"
+			],
+			[
+				"routes",
+				"config\\routes.php"
+			],
+			[
+				"rout",
+				"config\\routes.php"
+			],
+			[
+				"data",
+				"database.php"
+			],
+			[
+				"con",
+				"config\\config.php"
+			],
+			[
+				"sett",
+				"config\\settings.php"
+			],
+			[
+				"varia",
+				"assets\\less\\variables.less"
+			],
+			[
+				"sty",
+				"assets\\less\\styles.less"
+			],
+			[
+				"head",
+				"app\\views\\templates\\header.php"
+			],
+			[
+				"metas",
+				"app\\views\\templates\\metas.php"
+			],
+			[
+				"main",
+				"app\\views\\templates\\main.php"
+			],
+			[
+				"main.php",
+				"app\\views\\templates\\main.php"
+			],
+			[
+				".editor",
+				".editorconfig"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"cong",
+				"config.php"
+			],
+			[
+				"main.les",
+				"assets\\less\\main.less"
+			],
+			[
+				"styl",
+				"assets\\less\\styles.less"
+			],
+			[
+				"edi",
+				".editorconfig"
+			],
+			[
+				"header",
+				"app\\views\\templates\\header.php"
+			],
+			[
+				"edit",
+				".editorconfig"
+			],
+			[
+				"editorco",
+				".editorconfig"
+			],
+			[
+				"hea",
+				"app\\views\\templates\\header.php"
+			],
+			[
+				"viewind",
+				"app\\views\\index.php"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"boe",
+				"assets\\bower.json"
+			],
+			[
+				"composer",
+				"assets\\bower_components\\jquery\\composer.json"
+			],
+			[
+				"autolo",
+				"vendor\\composer\\autoload_classmap.php"
+			],
+			[
+				"composer.j",
+				"composer.json"
+			],
+			[
+				"autoload_nam",
+				"vendor\\composer\\autoload_namespaces.php"
+			],
+			[
+				"etc/local",
+				"app\\etc\\local.xml"
+			],
+			[
+				"produto.php",
+				"app\\code\\local\\MagentoNet\\Gridconfiguravel\\Model\\Produto.php"
+			],
+			[
+				"tooltip",
+				"js\\prototype\\tooltip.js"
+			],
+			[
+				"subtot",
+				"skin\\frontend\\base\\default\\js\\subtotal\\subtotal.js"
+			],
+			[
+				"aviso/",
+				"skin\\frontend\\base\\default\\js\\aviso\\aviso.js"
+			],
+			[
+				"gridcon",
+				"app\\design\\frontend\\base\\default\\layout\\gridconfiguravel.xml"
+			],
+			[
+				"subtotal.js",
+				"skin\\frontend\\base\\default\\js\\subtotal\\subtotal.js"
+			],
+			[
+				"gridconfiguravel.xml",
+				"app\\design\\frontend\\minimalism\\default\\layout\\gridconfiguravel.xml"
+			],
+			[
+				"gridconproduto.php",
+				"app\\code\\local\\MagentoNet\\Gridconfiguravel\\Model\\Produto.php"
+			],
+			[
+				"script.js",
+				"skin\\frontend\\minimalism\\default\\js\\script.js"
+			],
+			[
+				"gridco",
+				"app\\design\\frontend\\base\\default\\layout\\gridconfiguravel.xml"
+			],
+			[
+				"wrapper",
+				"app\\design\\frontend\\base\\default\\template\\gridconfiguravel\\wrapper.phtml"
+			],
+			[
+				".htac",
+				".htaccess.sample"
+			],
+			[
+				".hta",
+				"app\\.htaccess"
+			],
+			[
+				"local.xml",
+				"app\\etc\\local.xml"
+			],
+			[
+				"produto",
+				"app\\code\\local\\MagentoNet\\Gridconfiguravel\\Model\\Produto.php"
+			],
+			[
+				"skin/subtotal.js",
+				"skin\\frontend\\base\\default\\js\\subtotal\\subtotal.js"
+			],
+			[
+				"gridconfi.xml",
+				"app\\design\\frontend\\base\\default\\layout\\gridconfiguravel.xml"
+			],
+			[
+				"main.js",
+				"app\\scripts\\main.js"
+			],
+			[
+				"global.scss",
+				"app\\styles\\components\\_global.scss"
+			],
+			[
+				"sobrenos",
+				"app\\sobrenos.html"
+			],
+			[
+				"juicebo",
+				"app\\scripts\\juicebox\\jbcore\\juicebox.js"
+			],
+			[
+				"hambu",
+				"app\\images\\hamburger.svg"
+			],
+			[
+				".edit",
+				".editorconfig"
+			],
+			[
+				"utils.scss",
+				"app\\styles\\components\\_utils.scss"
+			],
+			[
+				"components/ty",
+				"app\\styles\\components\\_components\\_typography.scss"
+			],
+			[
+				"sobren",
+				"app\\sobrenos.html"
+			],
+			[
+				"contato",
+				"app\\contato.html"
+			],
+			[
+				"main.css",
+				"app\\styles\\main.css"
+			],
+			[
+				"main.min",
+				"dist\\styles\\components\\main.min.css"
+			],
+			[
+				"globa",
+				"app\\styles\\components\\_global.scss"
+			],
+			[
+				"global",
+				".sass-cache\\9c838639b34e1a7e8727404259dfa883ccffa078\\_global.scssc"
+			],
+			[
+				"modo_cate",
+				"css\\modo_categoria_tabela.css"
+			],
+			[
+				"rela",
+				"relacionados_old.php"
+			],
+			[
+				"relacionado",
+				"relacionados.php"
+			],
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"related.css",
+				"css\\related.css"
+			],
+			[
+				"lechantal/page.xml",
+				"app\\design\\frontend\\default\\lechantal\\layout\\page.xml"
+			],
+			[
+				"page.xml",
+				"app\\design\\frontend\\default\\lechantal\\layout\\page.xml"
+			],
+			[
+				"lechantal/style.css",
+				"skin\\frontend\\default\\lechantal\\css\\styles.css"
+			],
+			[
+				"lechantal/footer.phtml",
+				"app\\design\\frontend\\default\\lechantal\\template\\page\\html\\footer.phtml"
+			],
+			[
+				".ht",
+				".htaccess"
+			],
+			[
+				".htacc",
+				"app\\.htaccess"
+			],
+			[
+				"animate.le",
+				"diadospais\\less\\animate.less"
+			],
+			[
+				"info",
+				"diadospais\\info.php"
+			],
+			[
+				"scripts.js",
+				"diadospais\\js\\scripts.js"
+			],
+			[
+				"database",
+				"diadospais\\class\\Database.php"
+			],
+			[
+				"scripts",
+				"diadospais\\js\\scripts.js"
+			],
+			[
+				"animat",
+				"diadospais\\less\\animate.less"
+			],
+			[
+				"baloon",
+				"diadospais\\baloon.php"
+			],
+			[
+				"baloo",
+				"diadospais\\baloon.php"
+			],
+			[
+				"copyof",
+				"diadospais\\copy of baloon.php"
+			],
+			[
+				"styles.less",
+				"diadospais\\less\\styles.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"preco",
+				"C:\\xampp\\htdocs\\preconomia.com.br\\preconomia.sublime-project"
+			],
+			[
+				"precono",
+				"C:\\xampp\\htdocs\\preconomia.com.br\\preconomia.sublime-project"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\vestefacil.com.br\\vestefacil.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
