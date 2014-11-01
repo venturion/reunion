@@ -3,17 +3,18 @@
 $settings = array(
     "settings" => array(
         "root" => ROOT,
-        "baseUrl" => "http://dev.preconomia.com.br",
+        "baseUrl" => "http://dev.reunion.com.br",
         "mainTemplate" => "main",
-        "templateFolder" => "../app/views/templates",        
+        "templateFolder" => "app/views/templates",        
+        "viewsFolder" => "app/views",        
         "defaultController" => "site",
-        "name" => "Preçonomia",
-        "title" => "Preçonomia - economia em suas compras.",
-        "keywords" => "Keywords",
+        "name" => "Reunion",
+        "title" => "Reunion Framework.",
+        "keywords" => "FrameWork, Reunion, Best Features, Dependency Injection",
         "emails" => array(
-            "contact" => "contato@preconomia.com.br",
-            "sac" => "sac@preconomia.com.br",
-            "support" => "suporte@preconomia.com.br"
+            "contact" => "contato@reunion.com.br",
+            "sac" => "sac@reunion.com.br",
+            "support" => "suporte@reunion.com.br"
         ),
     )
 );
