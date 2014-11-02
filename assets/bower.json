@@ -21,7 +21,7 @@
   "devDependencies": {
     "polymer": "~0.4.1",
     "jquery-gh-readme": "~1.0.0",
-    "paper-elements": "Polymer/paper-elements#~0.4.1"
+    "paper-elements": "Polymer/paper-elements#~0.4.1",
     "google-map": "0.1.*"
   }
 }

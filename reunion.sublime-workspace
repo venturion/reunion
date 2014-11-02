@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"par",
+				"parameters"
+			],
+			[
 				"templa",
 				"templateFolder"
 			],
@@ -15,6 +19,62 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 305,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "system/classes/app/App.php",
+			"settings":
+			{
+				"buffer_size": 771,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "system/classes/mapper/uri.php",
+			"settings":
+			{
+				"buffer_size": 6949,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "system/classes/dispatcher/dispathcer.php",
+			"settings":
+			{
+				"buffer_size": 1407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "system/classes/view/view.php",
+			"settings":
+			{
+				"buffer_size": 2458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/SiteController.php",
+			"settings":
+			{
+				"buffer_size": 325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "system/composer.json",
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -67,10 +127,68 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/reunion.com.br"
+		"/C/xampp/htdocs/reunion.com.br",
+		"/C/xampp/htdocs/reunion.com.br/app",
+		"/C/xampp/htdocs/reunion.com.br/app/controllers"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/reunion.com.br/assets/package.json",
+		"/C/xampp/htdocs/reunion.com.br/config/settings.php",
+		"/C/xampp/htdocs/reunion.com.br/assets/bower_components/jquery/composer.json",
+		"/C/xampp/htdocs/reunion.com.br/config/config.php",
+		"/C/xampp/htdocs/reunion.com.br/assets/less/styles.less",
+		"/C/xampp/htdocs/reunion.com.br/app/views/error/404.html",
+		"/C/xampp/htdocs/reunion.com.br/app/views/error/error.html",
+		"/C/xampp/htdocs/reunion.com.br/assets/node_modules/gulp-minify-css/node_modules/clean-css/lib/selectors/empty-removal.js",
+		"/C/xampp/htdocs/reunion.com.br/app/views/templates/main.html",
+		"/C/xampp/htdocs/reunion.com.br/app/views/erros/404.html",
+		"/C/xampp/htdocs/reunion.com.br/assets/less/main.less",
+		"/C/xampp/htdocs/reunion.com.br/.htaccess",
+		"/C/xampp/htdocs/reunion.com.br/system/classes/controller/controller.php",
+		"/C/xampp/htdocs/reunion.com.br/app/views/index.html",
+		"/C/xampp/htdocs/reunion.com.br/app/controllers/controller.php",
+		"/C/xampp/htdocs/reunion.com.br/app/views/templates/main.php",
+		"/C/xampp/htdocs/reunion.com.br/app/views/index.php",
+		"/C/xampp/htdocs/reunion.com.br/system/classes/view/view.php",
+		"/C/xampp/htdocs/reunion.com.br/assets/bower_components/core-doc-viewer/core-doc-viewer.html",
+		"/C/xampp/htdocs/reunion.com.br/assets/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/test/extglob-ending-with-state-char.js",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_without_extends.test",
+		"/C/xampp/htdocs/reunion.com.br/assets/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/extglob-ending-with-state-char.js",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_without_extends_but_traits.test",
+		"/C/xampp/htdocs/reunion.com.br/assets/less/variables.less",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/composer/autoload_classmap.php",
+		"/C/xampp/htdocs/reunion.com.br/README.md",
+		"/C/xampp/htdocs/reunion.com.br/polymer.php",
+		"/C/xampp/htdocs/reunion.com.br/LICENSE",
+		"/C/xampp/htdocs/reunion.com.br/index2.php",
+		"/C/xampp/htdocs/reunion.com.br/.gitignore",
+		"/C/xampp/htdocs/reunion.com.br/.editorconfig",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/ClassAlias.php",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/composer/ClassLoader.php",
+		"/C/xampp/htdocs/reunion.com.br/assets/bower_components/core-layout-grid/core-layout-grid.html",
+		"/C/xampp/htdocs/reunion.com.br/assets/bower_components/core-list/core-list.css",
+		"/C/xampp/htdocs/reunion.com.br/assets/bower_components/core-ajax/core-ajax.html",
+		"/C/xampp/htdocs/reunion.com.br/assets/bower_components/jquery/src/callbacks.js",
+		"/C/xampp/htdocs/reunion.com.br/system/composer.json",
+		"/C/xampp/htdocs/reunion.com.br/assets/bower_components/core-overlay/tests/html/core-overlay-positioning.html",
+		"/C/xampp/htdocs/reunion.com.br/app/controllers/UserController.php",
+		"/C/xampp/htdocs/reunion.com.br/assets/bower_components/jquery/src/offset.js",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/verbatim/whitespace_control.test",
+		"/C/xampp/htdocs/reunion.com.br/assets/node_modules/gulp-less/node_modules/less/test/less/errors/color-func-invalid-color.less",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/silex/silex/src/Silex/Provider/HttpFragmentServiceProvider.php",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/twig/twig/test/Twig/Tests/Fixtures/expressions/operators_as_variables.test",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/silex/silex/tests/Silex/Tests/Application/FormApplication.php",
+		"/C/xampp/htdocs/reunion.com.br/system/framework.sublime-project",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/UriSigner.php",
+		"/C/xampp/htdocs/reunion.com.br/assets/node_modules/gulp-minify-css/node_modules/clean-css/lib/images/url-rebase.js",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/php-console/php-console/tests/Test/Dispatcher.php",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/php-console/php-console/src/PhpConsole/Dispatcher.php",
+		"/C/xampp/htdocs/reunion.com.br/system/classes/dispatcher/dispathcer.php",
+		"/C/xampp/htdocs/reunion.com.br/assets/bower_components/core-icons/device-icons.html",
+		"/C/xampp/htdocs/reunion.com.br/config/database.php",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/composer/autoload_psr4.php",
+		"/C/xampp/htdocs/reunion.com.br/system/vendor/autoload.php",
 		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/checkout/success.php",
 		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/payment/amazon_checkout.php",
 		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/checkout/success.php",
@@ -142,73 +260,18 @@
 		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/affiliate/forgotten.php",
 		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/wishlist.php",
 		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/wishlist.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/module/account.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/module/affiliate.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/common/login.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/affiliate/login.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/module/account.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/module/affiliate.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/affiliate/login.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/affiliate/payment.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/affiliate/payment.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/checkout/cart.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/checkout/failure.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/account/order.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/product/compare.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/mail/order.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/language/english/account/order.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/product/product.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/product/compare.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/pp_standard.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/pp_express.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/klarna_invoice.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/klarna_account.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/payment/amazon_checkout.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/openbay/amazonus.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/openbay/amazon.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/feed/google_base.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/common/cart.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/checkout/confirm.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/checkout/cart.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/api/order.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/api/cart.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/account/wishlist.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/account/return.php",
-		"/C/xampp/htdocs/showtek.com.br/catalog/controller/account/order.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/model/sale/return.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/model/openbay/etsy_product.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/model/openbay/ebay.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/model/catalog/product.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/report/product_viewed.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/report/product_purchased.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/openbay_itemlist.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazonus_listingsaved.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazonus_listing.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazonus_links.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazonus_bulk_listing.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazon_listingsaved.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazon_listing.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazon_links.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/language/english/openbay/amazon_bulk_listing.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/controller/sale/return.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/controller/sale/order.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/controller/report/product_viewed.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/controller/report/product_purchased.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/controller/payment/amazon_checkout.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/controller/openbay/amazonus_product.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/controller/openbay/amazonus.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/controller/openbay/amazon_product.php",
-		"/C/xampp/htdocs/showtek.com.br/admin/controller/openbay/amazon.php"
+		"/C/xampp/htdocs/showtek.com.br/catalog/language/portuguese-br/module/account.php"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
 		"height": 102.0,
 		"where_history":
 		[
+			"*.*",
 			"*.php",
 			"*.phtml",
 			"*.js",
@@ -228,6 +291,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"data",
+			"classes",
+			"controller",
+			"config",
+			"private",
+			"favic",
+			"favicon",
 			"'Your order has been placed!'",
 			"'Warning: Please enter a coupon code!'",
 			"'Warning: Coupon is either invalid, expired or reached its usage limit!'",
@@ -348,14 +418,7 @@
 			"coluna_G",
 			"subTotalCol",
 			"coluna_",
-			"coluna",
-			"coluna_",
-			"coluna_G",
-			"tr_to",
-			"prototype/tooltip.js",
-			"getAttributesValues",
-			"preco",
-			"Mage::getModel('cataloginventory/stock_item'"
+			"coluna"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -363,6 +426,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"public",
+			"pulic",
 			"'Seu pedido foi colocado!'",
 			"'Aviso: Por favor insira um código de cupom!'",
 			"'Atenção: Coupon é inválido, expirou ou atingiu o seu limite de uso!'",
@@ -419,8 +484,240 @@
 	"groups":
 	[
 		{
+			"selected": 6,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "system/classes/app/App.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								418
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "system/classes/mapper/uri.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								674,
+								684
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "system/classes/dispatcher/dispathcer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "system/classes/view/view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2318,
+								2318
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/controllers/SiteController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "system/composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								626,
+								626
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -466,7 +763,7 @@
 	"project": "reunion.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -475,8 +772,112 @@
 		"selected_items":
 		[
 			[
+				"composer.",
+				"system\\composer.json"
+			],
+			[
+				"composer",
+				"assets\\bower_components\\jquery\\composer.json"
+			],
+			[
+				"sett",
+				"config\\settings.php"
+			],
+			[
+				"404",
+				"app\\views\\error\\404.html"
+			],
+			[
+				"error",
+				"app\\views\\error\\error.html"
+			],
+			[
+				"main",
+				"app\\views\\templates\\main.html"
+			],
+			[
+				"main.",
+				"app\\views\\templates\\main.html"
+			],
+			[
+				"settings",
+				"config\\settings.php"
+			],
+			[
+				".ht",
+				".htaccess"
+			],
+			[
+				"controller",
+				"app\\controllers\\controller.php"
+			],
+			[
+				"settin",
+				"config\\settings.php"
+			],
+			[
+				"index.ht",
+				"app\\views\\index.html"
+			],
+			[
+				"main.php",
+				"app\\views\\templates\\main.php"
+			],
+			[
+				"setti",
+				"config\\settings.php"
+			],
+			[
+				"conf",
+				"config\\config.php"
+			],
+			[
 				"config",
-				"admin\\config.php"
+				"config\\config.php"
+			],
+			[
+				"view",
+				"system\\classes\\view\\view.php"
+			],
+			[
+				"class",
+				"system\\vendor\\composer\\autoload_classmap.php"
+			],
+			[
+				"contr",
+				"system\\classes\\controller\\controller.php"
+			],
+			[
+				"composer.json",
+				"system\\composer.json"
+			],
+			[
+				"controll",
+				"system\\classes\\controller\\controller.php"
+			],
+			[
+				"viindex",
+				"app\\views\\index.php"
+			],
+			[
+				"usercon",
+				"app\\controllers\\UserController.php"
+			],
+			[
+				"uri",
+				"system\\classes\\mapper\\uri.php"
+			],
+			[
+				"dispatcher",
+				"system\\classes\\dispatcher\\dispathcer.php"
+			],
+			[
+				"app",
+				"system\\classes\\app\\App.php"
+			],
+			[
+				"inde",
+				"index.php"
 			],
 			[
 				"bowe",
@@ -515,10 +916,6 @@
 				"config\\config.php"
 			],
 			[
-				"sett",
-				"config\\settings.php"
-			],
-			[
 				"varia",
 				"assets\\less\\variables.less"
 			],
@@ -533,14 +930,6 @@
 			[
 				"metas",
 				"app\\views\\templates\\metas.php"
-			],
-			[
-				"main",
-				"app\\views\\templates\\main.php"
-			],
-			[
-				"main.php",
-				"app\\views\\templates\\main.php"
 			],
 			[
 				".editor",
@@ -593,10 +982,6 @@
 			[
 				"boe",
 				"assets\\bower.json"
-			],
-			[
-				"composer",
-				"assets\\bower_components\\jquery\\composer.json"
 			],
 			[
 				"autolo",
@@ -775,10 +1160,6 @@
 				"app\\design\\frontend\\default\\lechantal\\template\\page\\html\\footer.phtml"
 			],
 			[
-				".ht",
-				".htaccess"
-			],
-			[
 				".htacc",
 				"app\\.htaccess"
 			],
@@ -860,7 +1241,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 264.0,
 	"status_bar_visible": true,
 	"template_settings":

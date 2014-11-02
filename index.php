@@ -9,9 +9,8 @@
     /*Autoload the system classes */
     require_once ("system/vendor/autoload.php");
 
-    //global $app;
-
     $app = new App($config);
 
     $app->run();
+
 ?>
